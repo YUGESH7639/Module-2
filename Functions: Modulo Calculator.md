@@ -11,9 +11,18 @@ To write a Python program that defines a function which accepts two values and r
 5. Call the `result` function with the user-provided values.
 
 ## 🧾 Program
+~~~
+def result(a, b):
+    c=a%b
+    print("Modulo result:", c)
+a = int(input())
+b = int(input())
+result(a, b)
 
-Add code Here
+~~~
 
 ## Output
+![Screenshot (179)](https://github.com/user-attachments/assets/f0a4ee8d-db0d-4618-9a88-924571e90876)
 
 ## Result
+Therefore,the given python program is successfully verified
